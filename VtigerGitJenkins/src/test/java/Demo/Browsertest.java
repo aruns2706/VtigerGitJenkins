@@ -27,6 +27,6 @@ public void launch() throws Exception {
 	
 	driver.get(System.getProperty("website"));
 	
-	Thread.sleep(5000);
+	Thread.sleep(4000);
 }
 }
